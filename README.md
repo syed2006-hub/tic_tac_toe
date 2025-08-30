@@ -27,8 +27,7 @@ A **modern Tic-Tac-Toe game** built with **Flutter**, featuring smooth animation
   <img src="assets/images/draw.jpeg" alt="Draw Animation Screenshot" width="250" height="500" />
 </p>
 
-
-*(Add your own screenshots here)*
+ 
 
 ---
 
@@ -40,9 +39,4 @@ A **modern Tic-Tac-Toe game** built with **Flutter**, featuring smooth animation
 - IDE: VS Code / Android Studio
 - Device / Emulator for testing
 
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/syed2006-hub/tic_tac_toe.git
+ 
