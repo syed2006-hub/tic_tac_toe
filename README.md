@@ -19,9 +19,14 @@ A **modern Tic-Tac-Toe game** built with **Flutter**, featuring smooth animation
 
 ## Screenshots 🖼️
 
-![Gameplay Screenshot](assets/images/gameplay.jpeg)  
-![Win Animation Screenshot](assets/images/Win.jpeg)  
-![Draw Animation Screenshot](assets/images/draw.jpeg)  
+## Screenshots 🖼️
+
+<p align="center">
+  <img src="assets/images/gameplay.jpeg" alt="Gameplay Screenshot" width="250" height="500" />
+  <img src="assets/images/win.jpeg" alt="Win Animation Screenshot" width="250" height="500" />
+  <img src="assets/images/draw.jpeg" alt="Draw Animation Screenshot" width="250" height="500" />
+</p>
+
 
 *(Add your own screenshots here)*
 
